@@ -67,9 +67,6 @@ sections:
     type: section_reviews
     background: white
     title: What Shopify merchant say to our apps
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
     reviews:
       - author: Nice Things by Helena
         avatar: images/review1.jpg
