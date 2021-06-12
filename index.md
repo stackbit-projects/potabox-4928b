@@ -84,7 +84,7 @@ sections:
         content: >-
           Absolutely love this application. Totally worth it. It was exactly
           what I was looking for. Would recommend this application for anyone.
-      - author: Jonquil Von Haggerston
+      - author: La boutique de Blois Chambord
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
