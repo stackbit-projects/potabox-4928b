@@ -29,7 +29,7 @@
             },
             {
                 "label": "Shopify Partner Page",
-                "url": "/signup",
+                "url": "https://apps.shopify.com/partners/potabox",
                 "style": "primary"
             }
         ]
