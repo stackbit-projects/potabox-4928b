@@ -78,7 +78,7 @@ sections:
           A really well made and useful app with AMAZINGLY responsive
           support/developer(s) behind it. Highly recommended for both the
           product and their service. Thank you!
-      - author: Parsley Montana
+      - author: Valool
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
