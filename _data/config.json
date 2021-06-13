@@ -57,7 +57,8 @@
                         "label": "Instant Buy & Ajax Add to Cart",
                         "url": "https://apps.shopify.com/instant-add-to-cart",
                         "style": "link",
-                        "new_window": true
+                        "new_window": true,
+                        "no_follow": true
                     },
                     {
                         "label": "Quick Compare",
