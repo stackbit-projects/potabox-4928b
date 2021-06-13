@@ -9,7 +9,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: We aim to provide pratically Shopify apps for boost sale
+      - title: We aim to provide practically Shopify apps to boost your sale
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
