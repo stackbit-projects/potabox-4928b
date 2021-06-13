@@ -69,7 +69,7 @@
                     },
                     {
                         "label": "Announcement Popup",
-                        "url": "/signup",
+                        "url": "https://apps.shopify.com/anno-box",
                         "style": "link"
                     },
                     {
