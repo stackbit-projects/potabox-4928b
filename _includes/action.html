@@ -11,4 +11,5 @@
     
     {% include icon.html icon=action_icon %}
   {% endif %}
+  <span {% if action_icon_pos == 'right' %}class="order-first"{% endif %}>{{ action.label }}</span>
 </a>
