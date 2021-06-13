@@ -8,10 +8,9 @@ sections:
       - title: We aim to provide practically Shopify apps to boost your sale
         image: images/8.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |+
+          Help your store to enhance the user experience
+
         actions: []
       - title: Our Achieve
         image: images/feature3.png
