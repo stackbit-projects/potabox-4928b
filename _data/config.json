@@ -54,7 +54,7 @@
                 "title": "Apps",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Instant Buy & Ajax Add to Cart",
                         "url": "/about",
                         "style": "link"
                     },
