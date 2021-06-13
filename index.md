@@ -8,7 +8,15 @@ sections:
       - title: We aim to provide practically Shopify apps to boost your sale
         image: images/8.jpg
         image_alt: App preview on a phone and tablet
-        content: "*   Help your store to enhance the user experience.\r\n\n*   We built ordinary but must-have apps for Shopify owners.\n\n*\r    Our apps have both paid and free plans. Paid plan at cheap recurring prices, and Free plan but powerful enough.\n"
+        content: >
+          Help your store to enhance the user experience.
+
+
+          We built ordinary but must-have apps for Shopify owners.
+
+
+          Our apps have both paid and free plans. Paid plan at cheap recurring
+          prices, and Free plan but powerful enough.
         actions: []
       - title: Our Achieve
         image: images/feature3.png
