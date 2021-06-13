@@ -51,7 +51,7 @@ sections:
     title: Start using our app to instantly increase your sale today
     actions:
       - label: Get Started
-        url: /signup
+        url: 'https://apps.shopify.com/partners/potabox'
         style: primary
   - section_id: recent-posts
     type: section_posts
