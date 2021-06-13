@@ -46,7 +46,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/oval-europa.png",
                 "image_url": "/",
                 "image_alt": "Footer logo"
             },
