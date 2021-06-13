@@ -81,7 +81,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: PotaBox
     - name: 'twitter:description'
       value: Provide must-have apps for Shopify stores
     - name: 'twitter:image'
