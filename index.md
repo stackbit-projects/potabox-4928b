@@ -62,7 +62,7 @@ sections:
     type: section_posts
     background: gray
 seo:
-  title: PotaBox - must-have apps for Shopify stores
+  title: PotaBox - Shopify Partner
   description: PotaBox - must-have apps for Shopify stores
   extra:
     - name: 'og:type'
