@@ -48,7 +48,7 @@ sections:
           responsive. Mais l'outil dans sa version gratuite fait le job.
   - section_id: call-to-action
     type: section_cta
-    title: Start using our app to instantly increase your sale today
+    title: Start using apps to increase your sale today
     actions:
       - label: Get Started
         url: 'https://apps.shopify.com/partners/potabox'
