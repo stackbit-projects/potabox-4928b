@@ -62,7 +62,7 @@ sections:
     type: section_posts
     background: gray
 seo:
-  title: P
+  title: PotaBox - must-have apps for Shopify stores
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
