@@ -18,7 +18,7 @@ sections:
           Our apps have both paid and free plans. Paid plan at cheap recurring
           prices, and Free plan but powerful enough.
         actions: []
-      - title: Our Achieve
+      - title: Our Achievements
         image: images/feature3.png
         image_alt: App user profile preview
         content: |
