@@ -49,7 +49,6 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Start using our app to instantly increase your sale today
-    subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
         url: /signup
