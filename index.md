@@ -83,7 +83,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Provide must-have apps for Shopify stores
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
