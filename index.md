@@ -5,7 +5,7 @@ sections:
     type: section_features
     background: gray
     features:
-      - title: We aim to provide practically Shopify apps to boost your sale
+      - title: provide practically Shopify apps to boost your sale
         image: images/8.jpg
         image_alt: App preview on a phone and tablet
         content: >
