@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: PotaBox
       keyName: property
     - name: 'og:description'
       value: Provide must-have apps for Shopify stores
