@@ -63,7 +63,7 @@ sections:
     background: gray
 seo:
   title: PotaBox - Shopify Partner
-  description: PotaBox - must-have apps for Shopify stores
+  description: Provide must-have apps for Shopify stores
   extra:
     - name: 'og:type'
       value: website
