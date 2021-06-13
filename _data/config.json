@@ -4,7 +4,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/lg p.png",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "PotaBox",
         "has_nav": true,
         "nav_links": [
             {
