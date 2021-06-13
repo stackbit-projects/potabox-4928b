@@ -63,7 +63,7 @@ sections:
     background: gray
 seo:
   title: PotaBox - must-have apps for Shopify stores
-  description: The preview of the Azimuth theme
+  description: PotaBox - must-have apps for Shopify stores
   extra:
     - name: 'og:type'
       value: website
