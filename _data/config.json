@@ -55,7 +55,7 @@
                 "nav_links": [
                     {
                         "label": "Instant Buy & Ajax Add to Cart",
-                        "url": "/about",
+                        "url": "https://apps.shopify.com/instant-add-to-cart",
                         "style": "link"
                     },
                     {
