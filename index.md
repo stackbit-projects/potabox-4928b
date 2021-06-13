@@ -23,9 +23,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: |
-          *   3+ Shopify Apps
+          *   330+ Merchant trusted our apps
 
-          *
+          *   3+ Shopify Apps
         actions: []
   - section_id: reviews
     type: section_reviews
