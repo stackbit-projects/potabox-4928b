@@ -39,10 +39,10 @@ sections:
       - title: Trusted by 330+ Shopify Stores
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |
+          *   3+ Shopify Apps
+
+          *
         actions: []
   - section_id: reviews
     type: section_reviews
