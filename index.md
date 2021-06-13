@@ -48,7 +48,7 @@ sections:
           responsive. Mais l'outil dans sa version gratuite fait le job.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Start using our app to instantly increase your sale today
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
