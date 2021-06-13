@@ -72,7 +72,7 @@ seo:
       value: Stackbit Azimuth Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Provide must-have apps for Shopify stores
       keyName: property
     - name: 'og:image'
       value: images/hero.png
