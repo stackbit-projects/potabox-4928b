@@ -62,7 +62,7 @@ sections:
     type: section_posts
     background: gray
 seo:
-  title: Stackbit Azimuth Theme
+  title: P
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
