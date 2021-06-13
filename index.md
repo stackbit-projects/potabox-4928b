@@ -6,7 +6,7 @@ sections:
     background: gray
     features:
       - title: We aim to provide practically Shopify apps to boost your sale
-        image: images/feature1.png
+        image: images/8.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
